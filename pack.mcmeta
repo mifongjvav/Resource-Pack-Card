@@ -1,0 +1,15 @@
+{
+    "pack": { 
+        "pack_format": 1,
+        "supported_formats": {
+			"min_inclusive": 1,
+			"max_inclusive": 100
+		},
+        "description": [
+			{
+			"text": "󎀀              by. mifongjvav󎀀\n󎀀§f\uFFF4\uFFF5"
+			}
+		]
+
+    }
+}

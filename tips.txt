@@ -1,0 +1,3 @@
+使用方法：把assets\icons\textures\menu这个目录下的文件换成你自己的rpc.png，rpc文件的宽应该为190的倍数（不小于1），高应该是34的倍数（不小于1）
+然后根据default.json的教程改chars
+mcmeta文件只可以改“by. mifongjvav"，注意不要把空格删了
