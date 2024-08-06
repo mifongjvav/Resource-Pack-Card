@@ -1,0 +1,16 @@
+// by. mifongjvav
+// 兼容Modern UI
+
+{
+    "providers": [
+		{
+			"type": "bitmap", //不要碰！
+			"file": "icons:menu/rpc.png", //应该为：命名空间（如icons）:文件夹（不用加纹理文件夹）/*.png（如左）
+				"ascent": 30, //不要碰！
+				"height": 34, //不要碰！
+				"chars": [
+				"\uFFF4\uFFF5" //左侧建议使用空码位，不然可能显示错误，至少2个哦！
+			]
+		}
+    ]
+}
