@@ -1,13 +1,13 @@
 {
     "pack": { 
-        "pack_format": 1,
+        "pack_format": 15,
         "supported_formats": {
-			"min_inclusive": 1,
+			"min_inclusive": 15,
 			"max_inclusive": 100
 		},
         "description": [
-			{
-			"text": "󎀀              by. mifongjvav󎀀\n󎀀§f\uFFF4\uFFF5"
+                                                {
+			"text": "󎀀\n󎀀§f\uFFF4\uFFF5              现在无法显示卡片!(世界里显示此条很正常)"
 			}
 		]
 
