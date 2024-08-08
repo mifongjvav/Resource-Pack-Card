@@ -1,3 +1,7 @@
+Usage: Replace the files in the assets\icons\textures\menu directory with your own rpc.png file. The width of the RPC file should be a multiple of 190 (not less than 1), and the height should be a multiple of 34 (not less than 1)
+Then chans the chars
+The MCMeta file can only be changed to "\uXXXX\uXXXX", be careful not to delete spaces
+
 使用方法：把assets\icons\textures\menu这个目录下的文件换成你自己的rpc.png，rpc文件的宽应该为190的倍数（不小于1），高应该是34的倍数（不小于1）
-然后根据default.json的教程改chars
-mcmeta文件只可以改“by. mifongjvav"，注意不要把空格删了
+然后改chars
+mcmeta文件只可以改“\uXXXX\uXXXX"，注意不要把空格删了
